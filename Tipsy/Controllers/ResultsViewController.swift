@@ -1,10 +1,3 @@
-//
-//  ResultsViewController.swift
-//  Tipsy
-//
-//  Created by Santiago Rodriguez Affonso on 16/03/2022.
-//  Copyright © 2022 The App Brewery. All rights reserved.
-//
 
 import UIKit
 
